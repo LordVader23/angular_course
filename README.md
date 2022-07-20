@@ -29,7 +29,7 @@ Then go to http://localhost:3000 in your browser
 ![Home page](screenshots/home.png)
 
 ### About
-! [About page] (screenshots/about.png)
+![About page](screenshots/about.png)
 
 ### Menu
 ![Menu page](screenshots/menu.png)
